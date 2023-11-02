@@ -1,6 +1,6 @@
 # Niewszystko
 
-###### Eksperyment mający na celu sprawdzenie, co ludzie myślą o grach komputerowych.
+#### Eksperyment mający na celu sprawdzenie, co ludzie myślą o grach komputerowych.
 
 ---
 
